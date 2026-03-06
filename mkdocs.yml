@@ -3,6 +3,7 @@ repo_url: https://github.com/qgisbg/docs
 extra_css:
   - assets/consent.css
   - assets/qgisbg.css
+  - assets/events.css
 extra_javascript:
   - https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js
   - https://cdn.jsdelivr.net/npm/cookies-eu-banner@2.0.1/dist/cookies-eu-banner.js
