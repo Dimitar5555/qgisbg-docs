@@ -1,0 +1,15 @@
+.speaker {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.speaker img {
+  border-radius: 8px;
+}
+
+.speaker p {
+  margin: 0.3rem 0;
+}
