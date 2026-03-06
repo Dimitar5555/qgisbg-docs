@@ -72,17 +72,22 @@ width="100%" height="600" frameborder="0"></iframe>
 
 ---
 
-### Иван Иванов
+### Иван Иванов [:material-linkedin:](https://www.linkedin.com/in/suricactus/)
 
-![Иван Иванов](./img/lecturer_Ivan_Ivanov.png){ width=260 }
+<div class="speaker">
+
+<img src="../img/lecturer_Ivan_Ivanov.png" width="120">
+
+<div>
 
 **QField и QFieldCloud — събиране на данни на терен**
 
-> Практическа работа с мобилното приложение QField и синхронизация с QGIS.
+> В работилницата ще се запознаем с процеса на създаване и настройка на проект за работа с QField и QFieldCloud за събиране на теренни данни.
 
-**Продължителност:** 3 часа
-**Ниво:** начинаещи
-**Материали:** лаптоп
+Иван Иванов е разработчик на ГИС софтуер с отворен код като QGIS, QField и QFieldCloud и основател на QGIS.bg.
+
+</div>
+</div>
 
 ---
 
